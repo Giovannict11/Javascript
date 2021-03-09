@@ -24,7 +24,7 @@ function verificar(){
             }else if(idade >= 22 && idade <60){
             img.src = "fotoadulto.png"
             }else{
-            img.src= "fotoidosa.png"
+            img.src= "Fotoidoso.png"
             }
                 }else  if (fsex[1].checked){
         genero = 'Mulher'

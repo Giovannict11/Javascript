@@ -1,0 +1,25 @@
+corpo {
+    fundo : carmesim;
+    fonte : normal 15 pt arial;
+}
+header {
+    cor : preto;
+    alinhamento de texto : centro;
+}
+seção {
+fundo : branco;
+raio da borda :  10 px ;
+largura :  500 px ;
+preenchimento :  15 px ;
+margem : automático;
+sombra da caixa :  10 px  5 px  10 px  rgba ( 0 ,  0 ,  0 ,  0,356 )
+}
+rodapé {
+    alinhamento de texto :   centro;
+    estilo da fonte : itálico;
+}
+
+div # res {
+    alinhamento de texto : centro;
+    preenchimento :  8 px ;
+}

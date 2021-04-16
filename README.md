@@ -1,3 +1,3 @@
 # JAVASCRIPT
- Verificador de idade em javascript feito no curso online.
+ Verificador de idade com foto feito em javascript, html e css no curso online.
 
